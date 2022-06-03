@@ -1,2 +1,3 @@
 select * 
 from capex.stock
+where type = 'GPRS-WIFI'
